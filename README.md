@@ -26,5 +26,5 @@ docker run \
 ## Decisions
 - A simple logger was added to each file to enable the output to be quickly associated with the file.
 - Classes were created for each client to incorporate a Singleton Pattern and set up the APIs and connections.
-- Conversion from Shopify JSON to Everstox JSON was not completed due to time constraints. The focus was on setting up the development environment, portability (Docker) and the maintainability of the code.
+- Conversion from Shopify JSON to Everstox JSON was not completed due to time constraints. The focus was on setting up the development environment, portability (Docker) and the maintainability of the code, setting up a clear structure for future works.
 - 'uv' was used to simplify the management of modules and collaboration.
