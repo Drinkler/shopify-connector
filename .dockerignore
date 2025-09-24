@@ -1,0 +1,10 @@
+.venv
+.github
+.gitignore
+.vscode
+README.md
+__pycache__/
+.ruff_cache/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
